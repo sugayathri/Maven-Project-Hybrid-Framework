@@ -1,0 +1,27 @@
+package com.inetbanking.testcases;
+
+import org.testng.annotations.Test;
+
+import com.inetbanking.pageobjects.AddCustomerPage;
+import com.inetbanking.pageobjects.LoginPage;
+
+public class AddCustomerTest3 extends BaseClass
+{
+	@Test
+	public void addnewcustomer() throws InterruptedException
+	{
+		LoginPage lp=new LoginPage(driver);
+		lp.setusername(username);
+		lp.setpassword(password);
+		lp.clicksubmit();
+		Thread.sleep(3000);
+		AddCustomerPage a=new AddCustomerPage(driver);
+		a.clickAddNewCustomer();
+		a.custName("varun");
+		a.custgender("male");
+		a.custdob("06", "07", "2020");
+		
+		
+	}
+
+}

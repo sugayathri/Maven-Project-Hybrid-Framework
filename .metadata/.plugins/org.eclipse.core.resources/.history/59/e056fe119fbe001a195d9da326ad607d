@@ -1,0 +1,14 @@
+package com.inetbanking.testcases;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+public class TestCase2 extends BaseClass 
+{
+	@Test(dataProvider="LoginData")
+public static void login_DP(String user,String pwd) throws IOException
+{
+	
+}
+}

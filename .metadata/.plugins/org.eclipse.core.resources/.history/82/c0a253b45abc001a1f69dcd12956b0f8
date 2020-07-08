@@ -1,0 +1,13 @@
+package com.inetbanking.pageobjects;
+
+import org.openqa.selenium.WebDriver;
+
+public class LoginPage {
+	WebDriver ldriver;
+	 LoginPage(WebDriver rdriver) {
+		
+	}
+
+	
+
+}

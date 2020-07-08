@@ -1,0 +1,9 @@
+com\inetbanking\testcases\BaseClass.class
+com\inetbanking\pageobjects\LoginPage.class
+com\inetbanking\testcases\AddCustomerTest3.class
+com\inetbanking\testcases\TestCase1.class
+com\inetbanking\utilities\ExcelUtils.class
+com\inetbanking\testcases\TestCase2.class
+com\inetbanking\utilities\ReadConfig.class
+com\inetbanking\pageobjects\AddCustomerPage.class
+com\inetbanking\utilities\Reporting.class

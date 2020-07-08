@@ -1,0 +1,9 @@
+package com.inetbanking.utilities;
+
+import java.util.Properties;
+
+public class ReadConfig {
+	Properties po;
+	
+
+}

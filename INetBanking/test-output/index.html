@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 5 failed tests</span>
+      <span class="top-banner-font-1">1 suite, 6 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">7 methods, 5 failed,   2 passed</span>
+                    <span class="method-stats">7 methods, 6 failed,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -107,6 +107,11 @@
                       <br/>
                       <span>
                         <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase2" hash-for-method="login_DP(mngr164225, jAhetAp)">login_DP(mngr164225, jAhetAp)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase2" hash-for-method="login_DP(mngr137319, bAdYvyb)">login_DP(mngr137319, bAdYvyb)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
@@ -117,12 +122,12 @@
                       <br/>
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase2" hash-for-method="login_DP(mngr164225, jAhetAp)">login_DP(mngr164225, jAhetAp)</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase2" hash-for-method="login_DP(mngr83460, qAbUzyj)">login_DP(mngr83460, qAbUzyj)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase2" hash-for-method="login_DP(mngr83460, qAbUzyj)">login_DP(mngr83460, qAbUzyj)</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase1" hash-for-method="logintest">logintest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-INetBanking -->
@@ -137,11 +142,6 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase2" hash-for-method="login_DP(mngr270377, AdYsebU)">login_DP(mngr270377, AdYsebU)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-INetBanking" title="com.inetbanking.testcases.TestCase1" hash-for-method="logintest">logintest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-INetBanking -->
@@ -159,6 +159,38 @@
           <div class="suite-INetBanking-class-failed">
             <div class="main-panel-header rounded-window-top">
               <img src="failed.png"/>
+              <span class="class-name">com.inetbanking.testcases.TestCase1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="logintest">
+                  </a> <!-- logintest -->
+                  <span class="method-name">logintest</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: Cannot locate an element using name=uid
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
+System info: host: &apos;DESKTOP-4R4IFSQ&apos;, ip: &apos;192.168.0.106&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:336)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:421)
+	at org.openqa.selenium.By$ByName.findElement(By.java:311)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:325)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy17.sendKeys(Unknown Source)
+	at com.inetbanking.pageobjects.LoginPage.setusername(LoginPage.java:37)
+	at com.inetbanking.testcases.TestCase1.logintest(TestCase1.java:19)
+	at java.util.ArrayList.forEach(Unknown Source)
+... Removed 27 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-INetBanking-class-failed -->
+          <div class="suite-INetBanking-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
               <span class="class-name">com.inetbanking.testcases.AddCustomerTest3</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -167,23 +199,15 @@
                   <a name="addnewcustomer">
                   </a> <!-- addnewcustomer -->
                   <span class="method-name">addnewcustomer</span>
-                  <div class="stack-trace">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Customer could not be added !!}
-  (Session info: chrome=83.0.4103.116): Customer could not be added !!
-Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
-System info: host: &apos;DESKTOP-4R4IFSQ&apos;, ip: &apos;192.168.0.106&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\Rakesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 58feb372b8fd5a2d2829cecafb1cc14d
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:127)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:160)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:639)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:643)
-	at org.openqa.selenium.remote.RemoteWebDriver.getPageSource(RemoteWebDriver.java:463)
-	at com.inetbanking.testcases.AddCustomerTest3.addnewcustomer(AddCustomerTest3.java:43)
+                  <div class="stack-trace">java.lang.NoClassDefFoundError: com/inetbanking/pageobjects/AddCustomerPage
+	at com.inetbanking.testcases.AddCustomerTest3.addnewcustomer(AddCustomerTest3.java:24)
 	at java.util.ArrayList.forEach(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: com.inetbanking.pageobjects.AddCustomerPage
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 29 more
 ... Removed 27 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
@@ -196,6 +220,19 @@ Session ID: 58feb372b8fd5a2d2829cecafb1cc14d
               <span class="class-name">com.inetbanking.testcases.TestCase2</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="login_DP(mngr164225, jAhetAp)">
+                  </a> <!-- login_DP(mngr164225, jAhetAp) -->
+                  <span class="method-name">login_DP</span>
+                  <span class="parameters">(mngr164225, jAhetAp)</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at com.inetbanking.testcases.TestCase2.login_DP(TestCase2.java:31)
+	at java.util.ArrayList.forEach(Unknown Source)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
                   <a name="login_DP(mngr137319, bAdYvyb)">
@@ -224,25 +261,34 @@ Session ID: 58feb372b8fd5a2d2829cecafb1cc14d
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="login_DP(mngr164225, jAhetAp)">
-                  </a> <!-- login_DP(mngr164225, jAhetAp) -->
-                  <span class="method-name">login_DP</span>
-                  <span class="parameters">(mngr164225, jAhetAp)</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.inetbanking.testcases.TestCase2.login_DP(TestCase2.java:31)
-	at java.util.ArrayList.forEach(Unknown Source)
-... Removed 31 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="login_DP(mngr83460, qAbUzyj)">
                   </a> <!-- login_DP(mngr83460, qAbUzyj) -->
                   <span class="method-name">login_DP</span>
                   <span class="parameters">(mngr83460, qAbUzyj)</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.inetbanking.testcases.TestCase2.login_DP(TestCase2.java:31)
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[contains(text(), &apos;Log out&apos;)]&quot;}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0-alpha-6&apos;, revision: &apos;5f43a29cfc&apos;
+System info: host: &apos;DESKTOP-4R4IFSQ&apos;, ip: &apos;192.168.0.106&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\Rakesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 4c3ddda4b22b0afee7a5200d38247d44
+*** Element info: {Using=xpath, value=//*[contains(text(), &apos;Log out&apos;)]}
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:196)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:129)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:160)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:582)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:333)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:451)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:394)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:325)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at com.inetbanking.pageobjects.LoginPage.clicklogout(LoginPage.java:49)
+	at com.inetbanking.testcases.TestCase2.login_DP(TestCase2.java:38)
 	at java.util.ArrayList.forEach(Unknown Source)
 ... Removed 31 stack frames
 </div> <!-- stack-trace -->
@@ -250,21 +296,6 @@ Session ID: 58feb372b8fd5a2d2829cecafb1cc14d
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-INetBanking-class-failed -->
-          <div class="suite-INetBanking-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.inetbanking.testcases.TestCase1</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="logintest">
-                  </a> <!-- logintest -->
-                  <span class="method-name">logintest</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-INetBanking-class-passed -->
           <div class="suite-INetBanking-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -341,33 +372,33 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(7);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'addnewcustomer')
-data.setCell(0, 2, 'com.inetbanking.testcases.AddCustomerTest3')
-data.setCell(0, 3, 22014);
+data.setCell(0, 1, 'login_DP')
+data.setCell(0, 2, 'com.inetbanking.testcases.TestCase2')
+data.setCell(0, 3, 26523);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'login_DP')
 data.setCell(1, 2, 'com.inetbanking.testcases.TestCase2')
-data.setCell(1, 3, 13314);
+data.setCell(1, 3, 18490);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'login_DP')
 data.setCell(2, 2, 'com.inetbanking.testcases.TestCase2')
-data.setCell(2, 3, 7818);
+data.setCell(2, 3, 13065);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'login_DP')
 data.setCell(3, 2, 'com.inetbanking.testcases.TestCase2')
-data.setCell(3, 3, 6551);
+data.setCell(3, 3, 10767);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'login_DP')
-data.setCell(4, 2, 'com.inetbanking.testcases.TestCase2')
-data.setCell(4, 3, 6361);
+data.setCell(4, 1, 'logintest')
+data.setCell(4, 2, 'com.inetbanking.testcases.TestCase1')
+data.setCell(4, 3, 10622);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'login_DP')
 data.setCell(5, 2, 'com.inetbanking.testcases.TestCase2')
-data.setCell(5, 3, 6045);
+data.setCell(5, 3, 7930);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'logintest')
-data.setCell(6, 2, 'com.inetbanking.testcases.TestCase1')
-data.setCell(6, 3, 3420);
+data.setCell(6, 1, 'addnewcustomer')
+data.setCell(6, 2, 'com.inetbanking.testcases.AddCustomerTest3')
+data.setCell(6, 3, 6127);
 window.suiteTableData['INetBanking']= { tableData: data, tableDiv: 'times-div-INetBanking'}
 return data;
 }
@@ -404,68 +435,72 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">logintest</span>
-                <span class="method-start">13779 ms</span>
+                <span class="method-start">160951 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">tearDown</span>
-                <span class="method-start">17267 ms</span>
+                <span class="method-start">172598 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.inetbanking.testcases.TestCase2</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(chrome)</span>
-                <span class="method-start">17271 ms</span>
+                <span class="method-start">175360 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">login_DP(mngr270377, AdYsebU)</span>
-                <span class="method-start">43439 ms</span>
+                <span class="method-start">246791 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">login_DP(mngr83460, qAbUzyj)</span>
-                <span class="method-start">56756 ms</span>
+                <span class="method-start">273318 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">login_DP(mngr137319, bAdYvyb)</span>
-                <span class="method-start">63356 ms</span>
+                <span class="method-start">291812 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">login_DP(mngr164225, jAhetAp)</span>
-                <span class="method-start">69719 ms</span>
+                <span class="method-start">304884 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">login_DP(mngr112909, tytUreg)</span>
-                <span class="method-start">75767 ms</span>
+                <span class="method-start">315656 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">83589 ms</span>
+                <span class="method-start">323589 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.inetbanking.testcases.AddCustomerTest3</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(chrome)</span>
-                <span class="method-start">83590 ms</span>
+                <span class="method-start">330134 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">addnewcustomer</span>
-                <span class="method-start">94645 ms</span>
+                <span class="method-start">349907 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">116683 ms</span>
+                <span class="method-start">356045 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

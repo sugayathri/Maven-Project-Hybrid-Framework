@@ -1,0 +1,10 @@
+package practicing;
+
+public class WordsCount {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

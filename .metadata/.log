@@ -1,0 +1,58 @@
+!SESSION 2020-07-08 15:14:03.257 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200521-1000
+java.version=1.8.0_251
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\Rakesh\Desktop\seleniumwebdriver\work1\.metadata\.bak_0.log
+Created Time: 2020-07-08 15:48:17.491
+
+!ENTRY org.testng.eclipse 4 4 2020-07-08 15:48:17.499
+!MESSAGE Error
+!STACK 0
+java.util.concurrent.CancellationException
+	at org.eclipse.jface.internal.text.codemining.CancellationExceptionMonitor.isCanceled(CancellationExceptionMonitor.java:33)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:79)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-07-08 15:55:18.972
+!MESSAGE Error
+!STACK 0
+java.util.concurrent.CancellationException
+	at org.eclipse.jface.internal.text.codemining.CancellationExceptionMonitor.isCanceled(CancellationExceptionMonitor.java:33)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:79)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.testng.eclipse 4 4 2020-07-08 17:16:55.058
+!MESSAGE Error
+!STACK 0
+java.lang.NullPointerException
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.isTest(TestCodeMiningProvider.java:116)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:98)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.processElements(TestCodeMiningProvider.java:88)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:66)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:39)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
