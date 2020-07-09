@@ -722,3 +722,24 @@
 2020-07-09 16:16:26,242 - ebanking -INFO - entered password
 2020-07-09 16:16:27,972 - ebanking -INFO - successfully submitted
 2020-07-09 16:16:28,025 - ebanking -INFO - Login test passed
+2020-07-09 16:17:03,182 - ebanking -INFO - user name provided
+2020-07-09 16:17:03,427 - ebanking -INFO - password provided
+2020-07-09 16:17:12,229 - ebanking -INFO - Login passed
+2020-07-09 16:17:21,793 - ebanking -INFO - user name provided
+2020-07-09 16:17:21,960 - ebanking -INFO - password provided
+2020-07-09 16:17:32,293 - ebanking -WARN - Login failed
+2020-07-09 16:17:32,486 - ebanking -INFO - user name provided
+2020-07-09 16:17:32,624 - ebanking -INFO - password provided
+2020-07-09 16:17:41,394 - ebanking -WARN - Login failed
+2020-07-09 16:17:41,532 - ebanking -INFO - user name provided
+2020-07-09 16:17:41,650 - ebanking -INFO - password provided
+2020-07-09 16:17:50,127 - ebanking -WARN - Login failed
+2020-07-09 16:17:50,262 - ebanking -INFO - user name provided
+2020-07-09 16:17:50,380 - ebanking -INFO - password provided
+2020-07-09 16:18:01,065 - ebanking -WARN - Login failed
+2020-07-09 16:19:09,367 - ebanking -INFO - username is provided
+2020-07-09 16:19:09,803 - ebanking -INFO - password is entered
+2020-07-09 16:19:12,754 - ebanking -INFO - submitted successfully
+2020-07-09 16:19:18,699 - ebanking -INFO - providing customer details....
+2020-07-09 16:19:29,451 - ebanking -INFO - validation started...
+2020-07-09 16:19:29,651 - ebanking -INFO - test case passed....
