@@ -717,3 +717,11 @@
 2020-07-09 15:58:24,090 [main] INFO ebanking - user name provided
 2020-07-09 15:58:24,202 [main] INFO ebanking - password provided
 2020-07-09 15:58:34,161 [main] WARN ebanking - Login failed
+2020-07-09 16:16:25,063 [main] INFO ebanking - URL is opened
+2020-07-09 16:16:26,078 [main] INFO ebanking - entered username
+2020-07-09 16:16:26,242 [main] INFO ebanking - entered password
+2020-07-09 16:16:27,972 [main] INFO ebanking - successfully submitted
+2020-07-09 16:16:28,025 [main] INFO ebanking - Login test passed
+2020-07-09 16:17:03,182 [main] INFO ebanking - user name provided
+2020-07-09 16:17:03,427 [main] INFO ebanking - password provided
+2020-07-09 16:17:12,229 [main] INFO ebanking - Login passed
