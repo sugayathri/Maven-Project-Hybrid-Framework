@@ -9,9 +9,9 @@
 
 <classes>
 
-<!--   <class name="com.inetbanking.testcases.TestCase1" /> -->
+  <class name="com.inetbanking.testcases.TestCase1" /> 
  <class name="com.inetbanking.testcases.TestCase2" />
- <!--  <class name="com.inetbanking.testcases.AddCustomerTest3" /> -->
+  <class name="com.inetbanking.testcases.AddCustomerTest3" /> 
 
 
 
