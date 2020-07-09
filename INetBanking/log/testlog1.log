@@ -510,3 +510,210 @@
 2020-07-08 18:07:35,745 [main] INFO ebanking - user name provided
 2020-07-08 18:07:35,863 [main] INFO ebanking - password provided
 2020-07-08 18:07:43,043 [main] WARN ebanking - Login failed
+2020-07-09 12:10:07,528 [main] INFO ebanking - user name provided
+2020-07-09 12:10:20,039 [main] INFO ebanking - password provided
+2020-07-09 12:10:47,019 [main] INFO ebanking - Login passed
+2020-07-09 12:14:03,221 [main] INFO ebanking - user name provided
+2020-07-09 12:14:03,402 [main] INFO ebanking - password provided
+2020-07-09 12:14:08,788 [main] INFO ebanking - Login passed
+2020-07-09 12:14:18,047 [main] INFO ebanking - user name provided
+2020-07-09 12:14:18,161 [main] INFO ebanking - password provided
+2020-07-09 12:14:25,537 [main] WARN ebanking - Login failed
+2020-07-09 12:14:25,662 [main] INFO ebanking - user name provided
+2020-07-09 12:14:25,787 [main] INFO ebanking - password provided
+2020-07-09 12:14:38,137 [main] WARN ebanking - Login failed
+2020-07-09 12:14:38,247 [main] INFO ebanking - user name provided
+2020-07-09 12:14:38,341 [main] INFO ebanking - password provided
+2020-07-09 12:14:46,437 [main] INFO ebanking - Login passed
+2020-07-09 12:14:56,711 [main] INFO ebanking - user name provided
+2020-07-09 12:14:56,836 [main] INFO ebanking - password provided
+2020-07-09 12:15:04,957 [main] INFO ebanking - Login passed
+2020-07-09 12:17:55,686 [main] INFO ebanking - user name provided
+2020-07-09 12:18:09,011 [main] INFO ebanking - password provided
+2020-07-09 12:18:35,251 [main] INFO ebanking - Login passed
+2020-07-09 12:34:52,170 [main] INFO ebanking - user name provided
+2020-07-09 12:34:52,613 [main] INFO ebanking - password provided
+2020-07-09 12:34:59,164 [main] INFO ebanking - Login passed
+2020-07-09 12:35:08,612 [main] INFO ebanking - user name provided
+2020-07-09 12:35:08,740 [main] INFO ebanking - password provided
+2020-07-09 12:35:15,810 [main] WARN ebanking - Login failed
+2020-07-09 12:35:16,002 [main] INFO ebanking - user name provided
+2020-07-09 12:35:16,156 [main] INFO ebanking - password provided
+2020-07-09 12:35:24,943 [main] WARN ebanking - Login failed
+2020-07-09 12:35:25,095 [main] INFO ebanking - user name provided
+2020-07-09 12:35:25,228 [main] INFO ebanking - password provided
+2020-07-09 12:35:32,603 [main] WARN ebanking - Login failed
+2020-07-09 12:35:32,742 [main] INFO ebanking - user name provided
+2020-07-09 12:35:32,861 [main] INFO ebanking - password provided
+2020-07-09 12:35:40,995 [main] WARN ebanking - Login failed
+2020-07-09 12:38:51,990 [main] INFO ebanking - user name provided
+2020-07-09 12:39:08,807 [main] INFO ebanking - password provided
+2020-07-09 12:39:33,052 [main] INFO ebanking - Login passed
+2020-07-09 12:46:52,725 [main] INFO ebanking - user name provided
+2020-07-09 12:46:52,915 [main] INFO ebanking - password provided
+2020-07-09 12:46:58,611 [main] INFO ebanking - Login passed
+2020-07-09 12:47:05,359 [main] INFO ebanking - user name provided
+2020-07-09 12:47:05,484 [main] INFO ebanking - password provided
+2020-07-09 12:47:13,626 [main] WARN ebanking - Login failed
+2020-07-09 12:47:13,784 [main] INFO ebanking - user name provided
+2020-07-09 12:47:13,909 [main] INFO ebanking - password provided
+2020-07-09 12:47:18,997 [main] WARN ebanking - Login failed
+2020-07-09 12:47:19,150 [main] INFO ebanking - user name provided
+2020-07-09 12:47:19,271 [main] INFO ebanking - password provided
+2020-07-09 12:47:25,449 [main] WARN ebanking - Login failed
+2020-07-09 12:47:25,596 [main] INFO ebanking - user name provided
+2020-07-09 12:47:25,710 [main] INFO ebanking - password provided
+2020-07-09 12:47:32,335 [main] WARN ebanking - Login failed
+2020-07-09 12:50:43,889 [main] INFO ebanking - user name provided
+2020-07-09 12:50:44,078 [main] INFO ebanking - password provided
+2020-07-09 12:50:50,999 [main] INFO ebanking - Login passed
+2020-07-09 12:50:59,483 [main] INFO ebanking - user name provided
+2020-07-09 12:50:59,596 [main] INFO ebanking - password provided
+2020-07-09 12:51:08,465 [main] WARN ebanking - Login failed
+2020-07-09 12:51:08,594 [main] INFO ebanking - user name provided
+2020-07-09 12:51:08,707 [main] INFO ebanking - password provided
+2020-07-09 12:51:15,918 [main] WARN ebanking - Login failed
+2020-07-09 12:51:16,059 [main] INFO ebanking - user name provided
+2020-07-09 12:51:16,177 [main] INFO ebanking - password provided
+2020-07-09 12:51:22,074 [main] WARN ebanking - Login failed
+2020-07-09 12:51:22,209 [main] INFO ebanking - user name provided
+2020-07-09 12:51:22,323 [main] INFO ebanking - password provided
+2020-07-09 12:51:29,573 [main] WARN ebanking - Login failed
+2020-07-09 12:58:21,971 [main] INFO ebanking - user name provided
+2020-07-09 12:58:22,267 [main] INFO ebanking - password provided
+2020-07-09 12:58:37,037 [main] INFO ebanking - Login passed
+2020-07-09 12:58:46,672 [main] INFO ebanking - user name provided
+2020-07-09 12:58:46,788 [main] INFO ebanking - password provided
+2020-07-09 12:58:53,868 [main] WARN ebanking - Login failed
+2020-07-09 12:58:54,007 [main] INFO ebanking - user name provided
+2020-07-09 12:58:54,129 [main] INFO ebanking - password provided
+2020-07-09 12:59:01,529 [main] WARN ebanking - Login failed
+2020-07-09 12:59:01,684 [main] INFO ebanking - user name provided
+2020-07-09 12:59:01,815 [main] INFO ebanking - password provided
+2020-07-09 12:59:07,856 [main] WARN ebanking - Login failed
+2020-07-09 12:59:08,027 [main] INFO ebanking - user name provided
+2020-07-09 12:59:08,147 [main] INFO ebanking - password provided
+2020-07-09 12:59:17,886 [main] WARN ebanking - Login failed
+2020-07-09 13:07:18,158 [main] INFO ebanking - user name provided
+2020-07-09 13:07:18,399 [main] INFO ebanking - password provided
+2020-07-09 13:07:25,174 [main] INFO ebanking - Login passed
+2020-07-09 13:07:33,765 [main] INFO ebanking - user name provided
+2020-07-09 13:07:33,884 [main] INFO ebanking - password provided
+2020-07-09 13:07:40,750 [main] WARN ebanking - Login failed
+2020-07-09 13:07:40,905 [main] INFO ebanking - user name provided
+2020-07-09 13:07:41,023 [main] INFO ebanking - password provided
+2020-07-09 13:07:47,534 [main] WARN ebanking - Login failed
+2020-07-09 13:07:47,671 [main] INFO ebanking - user name provided
+2020-07-09 13:07:47,957 [main] INFO ebanking - password provided
+2020-07-09 13:07:54,530 [main] WARN ebanking - Login failed
+2020-07-09 13:07:54,683 [main] INFO ebanking - user name provided
+2020-07-09 13:07:54,800 [main] INFO ebanking - password provided
+2020-07-09 13:08:01,051 [main] WARN ebanking - Login failed
+2020-07-09 13:09:04,356 [main] INFO ebanking - user name provided
+2020-07-09 13:09:04,560 [main] INFO ebanking - password provided
+2020-07-09 13:09:11,302 [main] INFO ebanking - Login passed
+2020-07-09 13:09:18,993 [main] INFO ebanking - user name provided
+2020-07-09 13:09:19,113 [main] INFO ebanking - password provided
+2020-07-09 13:09:25,412 [main] WARN ebanking - Login failed
+2020-07-09 13:09:25,545 [main] INFO ebanking - user name provided
+2020-07-09 13:09:25,662 [main] INFO ebanking - password provided
+2020-07-09 13:09:34,030 [main] WARN ebanking - Login failed
+2020-07-09 13:09:34,168 [main] INFO ebanking - user name provided
+2020-07-09 13:09:34,291 [main] INFO ebanking - password provided
+2020-07-09 13:09:40,561 [main] WARN ebanking - Login failed
+2020-07-09 13:09:40,709 [main] INFO ebanking - user name provided
+2020-07-09 13:09:40,822 [main] INFO ebanking - password provided
+2020-07-09 13:09:47,090 [main] WARN ebanking - Login failed
+2020-07-09 13:14:01,735 [main] INFO ebanking - user name provided
+2020-07-09 13:14:14,181 [main] INFO ebanking - password provided
+2020-07-09 13:14:38,874 [main] INFO ebanking - Login passed
+2020-07-09 13:18:29,003 [main] INFO ebanking - user name provided
+2020-07-09 13:18:29,255 [main] INFO ebanking - password provided
+2020-07-09 13:18:38,013 [main] INFO ebanking - Login passed
+2020-07-09 13:18:48,539 [main] INFO ebanking - user name provided
+2020-07-09 13:18:48,654 [main] INFO ebanking - password provided
+2020-07-09 13:18:58,530 [main] WARN ebanking - Login failed
+2020-07-09 13:18:58,670 [main] INFO ebanking - user name provided
+2020-07-09 13:18:58,783 [main] INFO ebanking - password provided
+2020-07-09 13:19:09,583 [main] WARN ebanking - Login failed
+2020-07-09 13:19:09,726 [main] INFO ebanking - user name provided
+2020-07-09 13:19:09,847 [main] INFO ebanking - password provided
+2020-07-09 13:19:17,977 [main] WARN ebanking - Login failed
+2020-07-09 13:19:18,109 [main] INFO ebanking - user name provided
+2020-07-09 13:19:18,242 [main] INFO ebanking - password provided
+2020-07-09 13:19:27,418 [main] WARN ebanking - Login failed
+2020-07-09 13:25:12,165 [main] INFO ebanking - user name provided
+2020-07-09 13:25:12,484 [main] INFO ebanking - password provided
+2020-07-09 13:25:24,616 [main] INFO ebanking - Login passed
+2020-07-09 13:25:39,085 [main] INFO ebanking - user name provided
+2020-07-09 13:25:39,206 [main] INFO ebanking - password provided
+2020-07-09 13:25:50,148 [main] WARN ebanking - Login failed
+2020-07-09 13:25:50,295 [main] INFO ebanking - user name provided
+2020-07-09 13:25:50,416 [main] INFO ebanking - password provided
+2020-07-09 13:25:59,109 [main] WARN ebanking - Login failed
+2020-07-09 13:25:59,363 [main] INFO ebanking - user name provided
+2020-07-09 13:25:59,508 [main] INFO ebanking - password provided
+2020-07-09 13:26:10,250 [main] WARN ebanking - Login failed
+2020-07-09 13:26:10,376 [main] INFO ebanking - user name provided
+2020-07-09 13:26:10,487 [main] INFO ebanking - password provided
+2020-07-09 13:26:19,610 [main] WARN ebanking - Login failed
+2020-07-09 13:45:44,128 [main] INFO ebanking - user name provided
+2020-07-09 13:45:44,452 [main] INFO ebanking - password provided
+2020-07-09 13:45:53,838 [main] INFO ebanking - Login passed
+2020-07-09 13:46:05,115 [main] INFO ebanking - user name provided
+2020-07-09 13:46:05,222 [main] INFO ebanking - password provided
+2020-07-09 13:46:15,311 [main] INFO ebanking - Login passed
+2020-07-09 13:46:26,322 [main] INFO ebanking - user name provided
+2020-07-09 13:46:26,435 [main] INFO ebanking - password provided
+2020-07-09 13:46:44,978 [main] WARN ebanking - Login failed
+2020-07-09 13:46:45,117 [main] INFO ebanking - user name provided
+2020-07-09 13:46:45,254 [main] INFO ebanking - password provided
+2020-07-09 13:46:55,339 [main] INFO ebanking - Login passed
+2020-07-09 13:47:05,515 [main] INFO ebanking - user name provided
+2020-07-09 13:47:05,605 [main] INFO ebanking - password provided
+2020-07-09 13:47:20,890 [main] WARN ebanking - Login failed
+2020-07-09 13:49:46,079 [main] INFO ebanking - user name provided
+2020-07-09 13:49:46,962 [main] INFO ebanking - password provided
+2020-07-09 13:49:55,807 [main] INFO ebanking - Login passed
+2020-07-09 13:50:08,283 [main] INFO ebanking - user name provided
+2020-07-09 13:50:08,405 [main] INFO ebanking - password provided
+2020-07-09 13:50:16,672 [main] WARN ebanking - Login failed
+2020-07-09 13:50:16,828 [main] INFO ebanking - user name provided
+2020-07-09 13:50:16,948 [main] INFO ebanking - password provided
+2020-07-09 13:50:25,698 [main] WARN ebanking - Login failed
+2020-07-09 13:50:25,868 [main] INFO ebanking - user name provided
+2020-07-09 13:50:26,009 [main] INFO ebanking - password provided
+2020-07-09 13:50:34,863 [main] WARN ebanking - Login failed
+2020-07-09 13:50:35,015 [main] INFO ebanking - user name provided
+2020-07-09 13:50:35,134 [main] INFO ebanking - password provided
+2020-07-09 13:50:43,327 [main] WARN ebanking - Login failed
+2020-07-09 15:46:11,328 [main] INFO ebanking - user name provided
+2020-07-09 15:46:11,627 [main] INFO ebanking - password provided
+2020-07-09 15:46:20,567 [main] INFO ebanking - Login passed
+2020-07-09 15:46:31,491 [main] INFO ebanking - user name provided
+2020-07-09 15:46:31,618 [main] INFO ebanking - password provided
+2020-07-09 15:46:39,516 [main] WARN ebanking - Login failed
+2020-07-09 15:46:39,679 [main] INFO ebanking - user name provided
+2020-07-09 15:46:39,796 [main] INFO ebanking - password provided
+2020-07-09 15:46:49,198 [main] WARN ebanking - Login failed
+2020-07-09 15:46:49,400 [main] INFO ebanking - user name provided
+2020-07-09 15:46:49,650 [main] INFO ebanking - password provided
+2020-07-09 15:46:58,963 [main] WARN ebanking - Login failed
+2020-07-09 15:46:59,220 [main] INFO ebanking - user name provided
+2020-07-09 15:46:59,463 [main] INFO ebanking - password provided
+2020-07-09 15:47:08,367 [main] WARN ebanking - Login failed
+2020-07-09 15:57:36,021 [main] INFO ebanking - user name provided
+2020-07-09 15:57:36,471 [main] INFO ebanking - password provided
+2020-07-09 15:57:44,570 [main] INFO ebanking - Login passed
+2020-07-09 15:57:55,148 [main] INFO ebanking - user name provided
+2020-07-09 15:57:55,323 [main] INFO ebanking - password provided
+2020-07-09 15:58:05,298 [main] WARN ebanking - Login failed
+2020-07-09 15:58:05,508 [main] INFO ebanking - user name provided
+2020-07-09 15:58:05,763 [main] INFO ebanking - password provided
+2020-07-09 15:58:14,706 [main] WARN ebanking - Login failed
+2020-07-09 15:58:14,847 [main] INFO ebanking - user name provided
+2020-07-09 15:58:14,963 [main] INFO ebanking - password provided
+2020-07-09 15:58:23,954 [main] WARN ebanking - Login failed
+2020-07-09 15:58:24,090 [main] INFO ebanking - user name provided
+2020-07-09 15:58:24,202 [main] INFO ebanking - password provided
+2020-07-09 15:58:34,161 [main] WARN ebanking - Login failed

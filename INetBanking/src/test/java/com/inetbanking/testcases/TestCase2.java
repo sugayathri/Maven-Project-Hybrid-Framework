@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import com.inetbanking.pageobjects.LoginPage;
 import com.inetbanking.utilities.ExcelUtils;
 
-public class TestCase2 extends BaseClass 
+public class TestCase2 extends BaseClass
 {
 	@Test(dataProvider="LoginData")
 	public  void login_DP(String user,String pwd)  throws InterruptedException
@@ -22,7 +22,7 @@ public class TestCase2 extends BaseClass
 		logger.info("password provided");
 		lp.clicksubmit();
 		
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		
 		if(isAlertPresent()==true)
 		{
@@ -36,7 +36,7 @@ public class TestCase2 extends BaseClass
 			Assert.assertTrue(true);
 			logger.info("Login passed");
 			lp.clicklogout();
-			Thread.sleep(3000);
+			Thread.sleep(5000);
 			driver.switchTo().alert().accept();//close logout alert
 			driver.switchTo().defaultContent();
 			
