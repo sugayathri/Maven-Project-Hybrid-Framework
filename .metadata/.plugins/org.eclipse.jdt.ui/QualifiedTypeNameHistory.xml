@@ -35,7 +35,6 @@
 <fullyQualifiedTypeName name="org.openqa.selenium.support.CacheLookup"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.How"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
-<fullyQualifiedTypeName name="com.inetbanking.testcases.BaseClass"/>
 <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
 <fullyQualifiedTypeName name="com.inetbanking.pageobjects.LoginPage"/>
 <fullyQualifiedTypeName name="com.inetbanking.pageobjects.AddCustomerPage"/>
@@ -48,4 +47,5 @@
 <fullyQualifiedTypeName name="org.testng.Assert"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.remote.server.handler.GetTitle"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.devtools.storage.Storage.GetUsageAndQuotaResponse"/>
+<fullyQualifiedTypeName name="com.inetbanking.testcases.BaseClass"/>
 </qualifiedTypeNameHistroy>
