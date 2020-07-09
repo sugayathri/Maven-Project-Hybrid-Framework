@@ -743,3 +743,34 @@
 2020-07-09 16:19:18,699 - ebanking -INFO - providing customer details....
 2020-07-09 16:19:29,451 - ebanking -INFO - validation started...
 2020-07-09 16:19:29,651 - ebanking -INFO - test case passed....
+2020-07-09 17:17:49,641 - ebanking -INFO - URL is opened
+2020-07-09 17:17:50,087 - ebanking -INFO - entered username
+2020-07-09 17:17:50,229 - ebanking -INFO - entered password
+2020-07-09 17:17:52,529 - ebanking -INFO - successfully submitted
+2020-07-09 17:17:52,547 - ebanking -INFO - Login test passed
+2020-07-09 17:18:38,856 - ebanking -INFO - user name provided
+2020-07-09 17:18:39,131 - ebanking -INFO - password provided
+2020-07-09 17:18:48,004 - ebanking -INFO - Login passed
+2020-07-09 17:18:56,871 - ebanking -INFO - user name provided
+2020-07-09 17:18:57,023 - ebanking -INFO - password provided
+2020-07-09 17:19:05,284 - ebanking -WARN - Login failed
+2020-07-09 17:19:05,420 - ebanking -INFO - user name provided
+2020-07-09 17:19:05,530 - ebanking -INFO - password provided
+2020-07-09 17:19:14,651 - ebanking -WARN - Login failed
+2020-07-09 17:19:14,796 - ebanking -INFO - user name provided
+2020-07-09 17:19:14,924 - ebanking -INFO - password provided
+2020-07-09 17:19:24,228 - ebanking -WARN - Login failed
+2020-07-09 17:19:24,368 - ebanking -INFO - user name provided
+2020-07-09 17:19:24,480 - ebanking -INFO - password provided
+2020-07-09 17:19:33,526 - ebanking -WARN - Login failed
+2020-07-09 17:20:29,831 - ebanking -INFO - username is provided
+2020-07-09 17:20:29,959 - ebanking -INFO - password is entered
+2020-07-09 17:20:32,944 - ebanking -INFO - submitted successfully
+2020-07-09 17:20:38,023 - ebanking -INFO - providing customer details....
+2020-07-09 17:20:48,684 - ebanking -INFO - validation started...
+2020-07-09 17:20:48,709 - ebanking -INFO - test case passed....
+2020-07-09 17:47:51,289 - ebanking -INFO - URL is opened
+2020-07-09 17:47:52,098 - ebanking -INFO - entered username
+2020-07-09 17:47:52,221 - ebanking -INFO - entered password
+2020-07-09 17:47:53,955 - ebanking -INFO - successfully submitted
+2020-07-09 17:47:54,013 - ebanking -INFO - Login test passed
